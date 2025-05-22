@@ -11,13 +11,13 @@
 
 ## I will however work from the hypothesis that there are several different stages of the conception of freedom of the will, and these stages seem plausible to me at the beginning of the project: 
 
-### Pre-will theory of action. Perhaps non-exicisting, but will explore. 
+- Pre-will theory of action. Perhaps non-exicisting, but will explore. 
 
-### Will plays into action, but the actor has no agency. 
+- Will plays into action, but the actor has no agency. (Aristotle)
 
-### Actor has agency over the will, but still not at the "could've done otherwise" stage. 
+- Actor has agency over the will, but still not at the "could've done otherwise" stage. (Epictetus)
 
-### Could've done otherwise. 
+- Could've done otherwise. 
 
 
 ### Litterature TODO 
